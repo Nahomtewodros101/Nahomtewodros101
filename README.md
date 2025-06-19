@@ -1,7 +1,13 @@
 Hello, Nahom Tewodros here!
 welcome to my GitHub!
-I'm thrilled to share my coding journey with you. Here, you'll find projects that reflect my passion for building innovative solutions and exploring new technologies. Feel free to dive in, explore, and connect
+I'm thrilled to share my coding journey with you.
+---
 I'm a passionate developer specializing in TypeScript and JavaScript, crafting dynamic and robust solutions. Explore my projects to see my code in action! 
+--
+Here, you'll find projects that reflect my passion for building innovative solutions and exploring new technologies. 
+
+---
+Feel free to dive in, explore, and connect.
 
 
 
